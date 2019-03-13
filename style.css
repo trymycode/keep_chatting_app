@@ -1,0 +1,23 @@
+
+body{
+  font-family: 'Inconsolata', monospace;
+  color: #808080;
+}
+#messages
+{
+  height:300px;
+
+}
+#username,#textarea{
+  color: #158aff;
+  
+}
+#messages {
+  color: #8080ff;
+  border: none;
+  
+}
+i.fas.fa-users{
+  color: #ff8aff;
+}
+
